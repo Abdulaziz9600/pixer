@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\pixer1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pixer"
+	}
+}
